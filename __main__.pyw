@@ -44,7 +44,7 @@ class elabora():
             time.sleep(5)
 
 if(__name__ == "__main__"):
-    stringa = "&tag=acuf5928-21"
+    stringa = "&tag=acuf59280d-21"
 
     ext = [("it", True), 
             ("ca", False), 
